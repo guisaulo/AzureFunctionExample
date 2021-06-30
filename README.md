@@ -1,1 +1,1 @@
-Projeto com simple gatilho HTTP de uma função do Azure.
+Projeto com simples gatilho HTTP de uma função do Azure.
